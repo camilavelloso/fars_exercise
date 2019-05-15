@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557886922701.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4ABC1418",
+    "lastKnownWriteTime" : 7330282966326566628,
+    "last_content_update" : 1557886922701,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "879F968B",
+        "caption" : "relation_junction",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=relation_junction&cache_key=879F968B",
+        "displayedObservations" : 9,
+        "environment" : "",
+        "object" : "relation_junction",
+        "preview" : 0,
+        "totalObservations" : 9,
+        "variables" : 2
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
